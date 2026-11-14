@@ -1,0 +1,4 @@
+interface:
+  display_name: "包装素材与面位匹配"
+  short_description: "把产品素材逐一对应到正确的款式、数量和包装面位，阻止猜图套版"
+  default_prompt: "请用 $packaging-asset-mapper 检查这批素材并制作待确认的面位匹配表。"
